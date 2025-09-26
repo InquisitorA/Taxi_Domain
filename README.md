@@ -1,1 +1,1 @@
-Solving the taxi domain problem using RL
+Solving the taxi domain problem using Reinforcement Learning
